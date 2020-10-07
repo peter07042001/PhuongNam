@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Them"
+        android:id="@+id/itThem">
+    </item>
+
+    <item
+        android:title="Doi Mat Khau"
+        android:id="@+id/itDMK">
+    </item>
+
+    <item
+        android:title="Dang Xuat"
+        android:id="@+id/itDX">
+    </item>
+</menu>
